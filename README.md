@@ -5,8 +5,9 @@ A collection for all things related to deep learning in chemistry. Focused on ge
 ### Table of contents
 
 * [Motivation](#motivation)
-* Molecular Design
-* Materials Design
+* Repositories for Molecular Design
+* Repositories for Materials Design
+* Blog platforms
 
 
 ## Motivation
