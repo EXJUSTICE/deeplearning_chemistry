@@ -35,3 +35,6 @@ The use of deep learning in the physical sciencs has rapidly accelerated over th
 
 ## Blog Resources
 * [Is Life Worth Living? (Cheminformatics, Deep learning)](https://iwatobipen.wordpress.com/)
+
+## Academic Texts
+* [Deep Learning for The Life Sciences](https://github.com/deepchem/DeepLearningLifeSciences)
