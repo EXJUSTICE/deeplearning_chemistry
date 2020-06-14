@@ -16,15 +16,16 @@ The use of deep learning in the physical sciencs has rapidly accelerated over th
 
 ## Repositories in Pytorch
 ### Reinforcement Learning
-* [ Optimization of Molecules via Deep Reinforcement Learning: Zhenpeng Zhou, Steven Kearnes, Li Li, Richard N. Zare and Patrick Riley.](https://github.com/EXJUSTICE/MolDQN-pytorch)
-* [Deep Reinforcement Learning for de-novo Drug Design: Mariya Popova, Olexandr Isayev, Alexander Tropsha.](https://github.com/isayev/ReLeaSE)
+* [ Optimization of Molecules via Deep Reinforcement Learning (Zhou)](https://github.com/EXJUSTICE/MolDQN-pytorch)
+* [Deep Reinforcement Learning for de-novo Drug Design (Popova)](https://github.com/isayev/ReLeaSE)
 
 ### Generative Adversarial Architectures
-* [Self-Referencing Embedded Strings (SELFIES): A 100% robust molecular string representation: Mario Krenn, Florian Häse, AkshatKumar Nigam, Pascal Friederich, Alán Aspuru-Guzik](https://github.com/aspuru-guzik-group/selfies)
+* [Self-Referencing Embedded Strings (SELFIES): A 100% robust molecular string representation (Krenn)](https://github.com/aspuru-guzik-group/selfies)
 
+* [Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules (Bombarelli)](https://github.com/aspuru-guzik-group/chemical_vae)
 ## Repositories in Tensorflow
 ### Reinforcement Learning
-* [Optimization of Molecules via Deep Reinforcement Learning: Zhenpeng Zhou, Steven Kearnes, Li Li, Richard N. Zare and Patrick Riley.](https://github.com/google-research/google-research/tree/master/mol_dqn)
-* [Deep Reinforcement Learning for Multiparameter Optimization in de novo Drug Design: Niclas Ståhl Göran Falkman Alexander Karlsson Gunnar Mathiason Jonas Boström](https://github.com/stan-his/DeepFMPO)
-* [Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation: Jiaxuan You, Bowen Liu, Rex Ying, Vijay Pande, Jure Leskovec](https://github.com/bowenliu16/rl_graph_generation)
+* [Optimization of Molecules via Deep Reinforcement Learning (Zhou)](https://github.com/google-research/google-research/tree/master/mol_dqn)
+* [Deep Reinforcement Learning for Multiparameter Optimization in de novo Drug Design (Ståhl)](https://github.com/stan-his/DeepFMPO)
+* [Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation (You)](https://github.com/bowenliu16/rl_graph_generation)
 
