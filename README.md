@@ -19,13 +19,14 @@ The use of deep learning in the physical sciencs has rapidly accelerated over th
 * [ Optimization of Molecules via Deep Reinforcement Learning (Zhou)](https://github.com/EXJUSTICE/MolDQN-pytorch)
 * [Deep Reinforcement Learning for de-novo Drug Design (Popova)](https://github.com/isayev/ReLeaSE)
 
-### Generative Adversarial Architectures
+### Generative Architectures
 * [Self-Referencing Embedded Strings (SELFIES): A 100% robust molecular string representation (Krenn)](https://github.com/aspuru-guzik-group/selfies)
 
-* [Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules (Bombarelli)](https://github.com/aspuru-guzik-group/chemical_vae)
 ## Repositories in Tensorflow
 ### Reinforcement Learning
 * [Optimization of Molecules via Deep Reinforcement Learning (Zhou)](https://github.com/google-research/google-research/tree/master/mol_dqn)
 * [Deep Reinforcement Learning for Multiparameter Optimization in de novo Drug Design (Ståhl)](https://github.com/stan-his/DeepFMPO)
 * [Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation (You)](https://github.com/bowenliu16/rl_graph_generation)
 
+### Generative Architectures
+* [Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules (Bombarelli)](https://github.com/aspuru-guzik-group/chemical_vae)
