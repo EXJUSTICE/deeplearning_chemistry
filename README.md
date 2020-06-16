@@ -32,6 +32,8 @@ The use of deep learning in the physical sciencs has rapidly accelerated over th
 ### Generative Architectures
 * [Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules (Bombarelli)](https://github.com/aspuru-guzik-group/chemical_vae)
 * [Objective-Reinforced Generative Adversarial Network for Inverse-design Chemistry (Outeiral)](https://github.com/aspuru-guzik-group/ORGANIC)
+* [Inverse Design of Solid-State Materials via a
+Continuous Representation (Noh)](https://github.com/kaist-amsg/imatgen)
 
 ## Blog Resources
 * [Is Life Worth Living? (Cheminformatics, Deep learning)](https://iwatobipen.wordpress.com/)
